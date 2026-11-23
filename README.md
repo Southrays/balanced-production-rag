@@ -1,0 +1,1 @@
+A Production Grade RAG Application that uses PostgreSQL, FastAPI, Celery, Redis, Docker, 
